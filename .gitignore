@@ -1,0 +1,17 @@
+input/
+output/
+advancedClassificationLoop.o
+advancedClassificationRecursion.o
+basicClassification.o
+libclassloops.a
+libclassloops.so
+libclassrec.a
+libclassrec.so
+main.o
+maindloop
+maindrec
+mains
+cmake-build-debug/
+C-prog1/
+.idea/
+CMakeLists.txt
